@@ -8,6 +8,7 @@ pandas = "*"
 ipykernel = "*"
 plotnine = "*"
 statsmodels = "*"
+scikit-learn = "*"
 
 [dev-packages]
 black = "*"

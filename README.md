@@ -6,6 +6,8 @@ The 2022 world cup has passed, but a questions reamains. Is it possible to predi
 
 - [X] Understand the impact of the strenght defense, goalkeeping and others on the results 
 - [X] Analyse if external factors such as playing in home or not has impact on the result
+- [ ] Compare teams from the same continent
+- [ ] Analyse results from matches of teams in different continents
 - [X] Develop a model to predict if a team is going to lose
 - [ ] Combine models to understand the outcome of the match
 - [ ] Do simulations to predict the outcome of the matches between the teams
